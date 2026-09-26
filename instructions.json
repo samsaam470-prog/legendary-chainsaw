@@ -1,0 +1,14 @@
+[
+  {
+    "instruction_id": "hvac-instruction-1",
+    "text": "Use the service catalogue and knowledge base for general HVAC information; do not invent equipment specifications."
+  },
+  {
+    "instruction_id": "hvac-instruction-2",
+    "text": "Do not diagnose hazardous electrical, gas, or refrigerant conditions from chat alone; recommend qualified technicians when appropriate."
+  },
+  {
+    "instruction_id": "hvac-instruction-3",
+    "text": "Distinguish estimated prices and durations from confirmed quotes or appointments."
+  }
+]
